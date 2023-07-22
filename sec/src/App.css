@@ -1,0 +1,58 @@
+
+.heading{
+  text-align: center;
+}
+.outercontainer{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 20px;
+ 
+}
+.container{
+  padding: 10px;
+  box-shadow: 1px 5px 10px 2px #aaa;
+
+}
+
+label{
+  font-weight: bolder;
+  
+}
+input{
+  padding: 12px;
+  margin: 12px;
+  border-radius: 12px;
+}
+.mainbutton{
+float: right;
+box-shadow: 1px 1px 1px 2px #ddd;
+padding: 12px ;
+margin-right: 12px;
+border: none;
+width: 50%;
+border-radius: 12px;
+}
+.table_button{
+
+
+  padding: 12px;
+  border: none;
+  box-shadow: 1px 1px 1px 2px #ddd;
+
+}
+.table_main_button{
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+}
+.table_container{
+margin-top: 20px;
+display: flex;
+text-align: center;
+
+}
+.table_innercontainer{
+  width: 100% ;
+  box-shadow: 1px 1px 1px 2px #ddd;
+}
